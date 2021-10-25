@@ -1,3 +1,6 @@
+
+![Image of Crazy Cut Solution](images/crazy-cut-puzzle.jpg)
+=======
 # Math-Puzzles-repo
 
 ### 1. **Assignment Info**
