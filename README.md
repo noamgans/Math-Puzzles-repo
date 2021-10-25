@@ -1,1 +1,1 @@
-![Image of Crazy Cut Solution](crazy_cut_puzzle.jpg)
+![Image of Crazy Cut Solution](images/crazy-cut-puzzle.jpg)
